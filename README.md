@@ -12,10 +12,19 @@
 - English (very good–listening system )
 - German (B1–listening system )
 
-**Languages:**
-- Arabic (native)
-- English (very good–listening system )
-- German (B1–listening system )
+**General concept:**
+- OOP-SOLID - Unit Test TDD 
+- Git - Clean Code
+-  Clean Architecture -	Design Patterns
+-  Architecture Patterns - Problem solving - error handling
+**Flutter:**
+- GetX - Provider  
+- Localization - Responsive Screens -
+- Shared preference - caching API
+-  Firebase  Firestore – Cloud messaging .
+-  JSON -API - thunderclient
+-  	Google Maps
+
   
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
