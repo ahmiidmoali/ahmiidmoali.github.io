@@ -6,7 +6,7 @@
 - Al-Azhar University– Cairo civil engineering (2014-2019_)								       		
 - Flutter developer self-studying			        		
 
-## Skills
+## Skills (i already have)
 **Languages:**
 - Arabic (native)
 - English (very good–listening system )
@@ -25,7 +25,9 @@
 -  Firebase  Firestore – Cloud messaging .
 -  JSON -API - thunderclient
 -  	Google Maps
-
+-  	
+## Skills (working on)
+-cubit
   
 ## Projects
 ###Ecommerce App backend&frontend.
