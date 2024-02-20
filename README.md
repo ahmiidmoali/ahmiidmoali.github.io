@@ -25,7 +25,7 @@
 -  Firebase  Firestore – Cloud messaging .
 -  JSON -API - thunderclient
 -  	Google Maps
--  	
+
 ## Skills (working on)
 -cubit
   
