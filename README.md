@@ -17,6 +17,7 @@
 - Git - Clean Code
 -  Clean Architecture -	Design Patterns
 -  Architecture Patterns - Problem solving - error handling
+  
 **Flutter:**
 - GetX - Provider  
 - Localization - Responsive Screens -
