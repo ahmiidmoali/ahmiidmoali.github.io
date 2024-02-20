@@ -4,7 +4,9 @@
 
 ## Education
 - Al-Azhar University– Cairo civil engineering (2014-2019_)								       		
-- Flutter developer self-studying			        		
+- Flutter developer self-studying          		
+## Skills (working on)
+-cubit
 
 ## Skills (i already have)
 **Languages:**
@@ -26,8 +28,6 @@
 -  JSON -API - thunderclient
 -  	Google Maps
 
-## Skills (working on)
--cubit
   
 ## Projects
 ###Ecommerce App backend&frontend.
