@@ -1,24 +1,36 @@
 # Flutter Full stack developer
-
+[My Linkedin](https://www.google.com)
 #### Technical Skills: Dart, SQL, PHP
 
 ## Education
 - Al-Azhar University– Cairo civil engineering (2014-2019_)								       		
-- Flutter developer self-studying			        		
+- Flutter developer self-studying          		
+## Skills (working on)
+-cubit
 
-## Skills
+## Skills (i already have)
 **Languages:**
 - Arabic (native)
 - English (very good–listening system )
 - German (B1–listening system )
 
-**Languages:**
-- Arabic (native)
-- English (very good–listening system )
-- German (B1–listening system )
+**General concept:**
+- OOP-SOLID - Unit Test TDD 
+- Git - Clean Code
+-  Clean Architecture -	Design Patterns
+-  Architecture Patterns - Problem solving - error handling
+  
+**Flutter:**
+- GetX - Provider  
+- Localization - Responsive Screens -
+- Shared preference - caching API
+-  Firebase  Firestore – Cloud messaging .
+-  JSON -API - thunderclient
+-  	Google Maps
+
   
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
+###Ecommerce App backend&frontend.
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
 Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
