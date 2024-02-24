@@ -1,5 +1,5 @@
-# Flutter Full stack developer
-[My Linkedin](https://www.google.com)
+# Flutter Full stack developer [My Linkedin](https://www.google.com)
+
 #### Technical Skills: Dart, SQL, PHP
 
 ## Education
@@ -30,10 +30,11 @@
 
   
 ## Projects
-### Ecommerce App backend&frontend [my repo](https://www.mdpi.com/1424-8220/22/8/3048).
 
+### Ecommerce App backend&frontend [my repo](https://www.mdpi.com/1424-8220/22/8/3048).
 ## some features .
 1-A simple model of a dynamic bannel that display some products choosen and connected with the admin's app .
+
 ![EEG Band Discovery](/assets/image/dsss.gif)  ![EEG Band Discovery](/assets/image/dsss.gif)
 
 
