@@ -6,7 +6,7 @@
 - Al-Azhar University– Cairo civil engineering (2014-2019_)								       		
 - Flutter developer self-studying          		
 
-## Skills (i already have)
+## Skills
 **Languages:**
 - Arabic (native)
 - English (very good–listening system )
