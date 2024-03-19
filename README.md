@@ -34,7 +34,7 @@
 ## some features .
 1-A simple model of a dynamic bannel that display some products choosen and connected with the admin's app .
 
-![EEG Band Discovery](/assets/image/dsss.gif)  ![EEG Band Discovery](/assets/image/dsss.gif)
+![EEG Band Discovery](/assets/image/dbannghgel1.gif) 
 
 
 
