@@ -34,8 +34,7 @@
 ## some features .
 1-A simple model of a dynamic bannel that display some products choosen and connected with the admin's app .
 
-![EEG Band Discovery](/assets/image/dbannel1.gif | width=100) 
-<img src="assets/image/dbannel1.gif" width="100" height="100">
+<img src="assets/image/dbannel1.gif" width="150" height="300">
 
 
 
