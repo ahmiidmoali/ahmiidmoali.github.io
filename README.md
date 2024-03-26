@@ -13,7 +13,6 @@ Arabic - English -  German
 
 ### Pictures From The App .
 
-<img src="assets/image/dbannel1.gif" width="150" height="300">
 <img src="assets/image/dbannel2.gif" width="150" height="300">
 
 
