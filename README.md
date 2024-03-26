@@ -31,9 +31,7 @@
 
 ### Ecommerce App backend&frontend [my repo](https://www.mdpi.com/1424-8220/22/8/3048).
 
-## some features .
-1-A simple model of a dynamic bannel that display some products choosen and connected with the admin's app .
-
+## Pictures From The App .
 <img src="assets/image/dbannel1.gif" width="150" height="300">
 <img src="assets/image/dbannel2.gif" width="150" height="300">
 
