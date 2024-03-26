@@ -35,6 +35,7 @@
 1-A simple model of a dynamic bannel that display some products choosen and connected with the admin's app .
 
 <img src="assets/image/dbannel1.gif" width="150" height="300">
+<img src="assets/image/dbannel2.gif" width="150" height="300">
 
 
 
