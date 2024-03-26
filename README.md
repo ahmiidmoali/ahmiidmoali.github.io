@@ -1,4 +1,4 @@
-# Flutter Full stack developer[   MyLinkedin](https://www.google.com)
+# Flutter Full stack developer[   MyLinkedin](https://www.linkedin.com/in/ahmed-mohamed-ali-6aa3492b5/)
 
 ## Education
 - Al-Azhar University– Cairo civil engineering (2014-2019)								       		
@@ -9,7 +9,7 @@ Arabic - English -  German
 
 # Projects
 
-## Ecommerce App backend&frontend [my repo](https://www.mdpi.com/1424-8220/22/8/3048).
+## Ecommerce App backend&frontend [my repo](https://github.com/ahmiidmoali/Ecommerce-App-).
 
 ### Pictures From The App .
 
