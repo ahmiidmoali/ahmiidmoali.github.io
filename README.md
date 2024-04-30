@@ -9,7 +9,7 @@ Arabic - English -  German
 
 ## Projects:
 
-### Ecommerce App backend&frontend [my repo](https://github.com/ahmiidmoali/Ecommerce-App-).
+###  [Ecommerce App backend&frontend](https://github.com/ahmiidmoali/Ecommerce-App-).
 
 #### Pictures From The App .
 
