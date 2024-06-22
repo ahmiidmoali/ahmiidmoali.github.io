@@ -8,10 +8,18 @@
 Arabic - English -  German
 
 ## Projects:
+###  [Instagram Clone App backend&frontend ](https://github.com/ahmiidmoali/instagram_clone).
+
+#### Features From The App .
+
+<img src="assets/image/insta1.gif" width="150" height="300">
+<img src="assets/image/insta2.gif" width="150" height="300">
+<img src="assets/image/insta3.gif" width="150" height="300">
+
 
 ###  [Ecommerce App backend&frontend](https://github.com/ahmiidmoali/Ecommerce-App-).
 
-#### Pictures From The App .
+#### Features From The App .
 
 <img src="assets/image/dbannel2.gif" width="150" height="300">
 
