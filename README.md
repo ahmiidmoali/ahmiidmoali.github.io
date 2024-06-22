@@ -10,8 +10,7 @@ Arabic - English -  German
 ## Technical Skills
 -	Dart – PHP – MySQL.
 -	Bloc/ GetX / Provider/Stateful …. Flutter State Management.
--	Clean code based on clean Architecture.
--	Data Structure & Algorithms.
+-	Data Structure & Algorithms & Clean code based on clean Architecture..
 -	UI design principles -SOLID-Design Patterns - Architecture Patterns.
 -	Unit Testing TDD.
 -	PHP Rest API’s – Json.
