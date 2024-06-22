@@ -12,19 +12,13 @@ Arabic - English -  German
 -	Bloc/ GetX / Provider/Stateful …. Flutter State Management.
 -	Data Structure & Algorithms & Clean code based on clean Architecture..
 -	UI design principles -SOLID-Design Patterns - Architecture Patterns.
--	Unit Testing TDD.
--	PHP Rest API’s – Json.
--	Git _ Github.
--	php MySQL database.
--	my sqflite with Flutter.
+-	Unit Testing TDD – Git _ Github.
+-	PHP Rest API’s – Json – php MySQL database – my sqflite with Flutter.
 -	Third-Party Libraries in flutter and Dart Packages.
--	Localization - Authorization.
--	Responsive Screens.
--	pickimage – pickfile – upload files.
--	Shared preference – caching API.
+-	Localization - Authorization – Responsive Screens .
+-	pickimage – pickfile – upload files – Shared preference – caching API.
 -	Firebase with flutter (Notifications -FireStoreRealtime DB-Authentication).
--	Social Media Authentication.
--	Google API’s like google maps.
+-	Social Media Authentication – Google API’s like google maps..
 -	Local Storage, Files and Cache Memory.       		
 
 ## Projects:
