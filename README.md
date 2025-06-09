@@ -5,18 +5,14 @@
 contribute to innovative projects and collaborate with talented teams. 
 	
 ## Projects:
+###  [ Web Dashboard App](https://github.com/ahmiidmoali/web_dashboard).
+
+###  [Ecommerce App](https://github.com/ahmiidmoali/ecommerce_app).
+
 ###  [Instagram Clone App backend&frontend ](https://github.com/ahmiidmoali/instagram_clone).
-
-#### Features From The App .
-
-<img src="assets/image/insta1.gif" width="150" height="300">
-
 
 ###  [Ecommerce App backend&frontend](https://github.com/ahmiidmoali/Ecommerce-App-).
 
-#### Features From The App .
-
-<img src="assets/image/dbannel2.gif" width="150" height="300">
 
 
 
