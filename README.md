@@ -16,23 +16,41 @@ contribute to innovative projects and collaborate with talented teams.
 orders
     </td>
       </tr>
-	        <tr>
-     <td>
+<tr>
+    <td>
 <h4><a href="https://github.com/ahmiidmoali/ecommerce_app">Ecommerce App</a></h4>
+	    
 - Clean Architecture, Bloc , php rest Api, Get it .....
 - Features: Email authentication , product CRUD operations, and essential user actions like cart management, checkout, and selling.
 Integrated a responsive app notification system for enhanced user communication.
     </td>
-  </tr>
+      </tr>
+  
+   <tr>
+    <td>
+<h4><a href="https://github.com/ahmiidmoali/meeting_app">Meeting App</a></h4>
+	    
+- Bloc , php rest Api, Clean Architecture , Get it, Agora. .....
+- Features: Email authentication , all meeting apps features like joining using code, history and setting schedule for future events 
+    </td>
+      </tr>
+    <tr>
+    <td>
+<h4><a href="https://github.com/ahmiidmoali/whatsapp_clone">WhatsApp Clone</a></h4>
+	    
+- Clean Architecture,Firebase, Bloc , Get it .....
+- Features: mobile number authentication , single chats for all kind of messages ‘streaming data’, status feature and calling.
+    </td>
+      </tr>
 
     <tr>
     <td>
 <h4><a href="https://github.com/ahmiidmoali/instagram_clone">Instagram Clone App</a></h4>
-- Bloc, php rest Api , Clean Architecture. 
+- Bloc, php rest Api , Clean Architecture. ..... 
 - Features: Authentication, Personalized Profile page, Interactive posting , Following and Followers , Explore &Home Page
     </td>
       </tr>
-	        <tr>
+  <tr>
      <td>
 <h4><a href="https://github.com/ahmiidmoali/Ecommerce-App-">Ecommerce App</a></h4>
 - GetX , php rest Api , MVC architecture.
@@ -41,6 +59,14 @@ CRUD operations, and essential user actions like cart management, checkout, and 
 system for enhanced user communication
     </td>
   </tr>
+  <tr>
+    <td>
+<h4><a href="https://github.com/ahmiidmoali/ecommerce_admin">Admin Ecommerce-App App</a></h4>
+	    
+- GetX , php rest Api , MVC architecture..
+- Features: products and cateogories CRUD operations - approving and preparing orders .
+    </td>
+      </tr>
   </table>
 
 
