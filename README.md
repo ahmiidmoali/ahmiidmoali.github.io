@@ -68,6 +68,22 @@ system for enhanced user communication
     </td>
       </tr>
   </table>
+## Screenshots
 
-
-
+### Web Dashboard  [  ...More >>](https://github.com/ahmiidmoali/web_dashboard/blob/main/README.md)
+<table>
+  <tr>
+    <td><img src="assets/image/dashboard-1.png" width=600 height=300></td>
+     <td><img src="assets/image/orders -1.png" width=600 height=300></td>
+    
+  </tr>
+  </table>
+  
+### ecommerce App  [  ...More >>](https://github.com/ahmiidmoali/ecommerce_app/blob/main/README.md)
+<table>
+  <tr>
+    <td><img src="assets/image/home1.png" width=270 height=480></td>
+     <td><img src="assets/image/item1.png" width=270 height=480></td>
+     <td><img src="assets/image/orderdetails1.png" width=270 height=480></td>
+  </tr>
+   </table>
