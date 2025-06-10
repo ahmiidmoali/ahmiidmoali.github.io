@@ -15,6 +15,8 @@ contribute to innovative projects and collaborate with talented teams.
 - Features: displaying charts about users & orders activties ,products and cateogories CRUD operations - approving and preparing
 orders
     </td>
+      </tr>
+	        <tr>
      <td>
 <h4><a href="https://github.com/ahmiidmoali/ecommerce_app">Ecommerce App</a></h4>
 - Clean Architecture, Bloc , php rest Api, Get it .....
@@ -29,6 +31,8 @@ Integrated a responsive app notification system for enhanced user communication.
 - Bloc, php rest Api , Clean Architecture. 
 - Features: Authentication, Personalized Profile page, Interactive posting , Following and Followers , Explore &Home Page
     </td>
+      </tr>
+	        <tr>
      <td>
 <h4><a href="https://github.com/ahmiidmoali/Ecommerce-App-">Ecommerce App</a></h4>
 - GetX , php rest Api , MVC architecture.
