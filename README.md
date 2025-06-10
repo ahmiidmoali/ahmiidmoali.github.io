@@ -5,13 +5,6 @@
 contribute to innovative projects and collaborate with talented teams. 
 	
 ## Projects:
-###  [ Web Dashboard App](https://github.com/ahmiidmoali/web_dashboard).
-
-###  [Ecommerce App](https://github.com/ahmiidmoali/ecommerce_app).
-
-###  [Instagram Clone App backend&frontend ](https://github.com/ahmiidmoali/instagram_clone).
-
-###  [Ecommerce App backend&frontend](https://github.com/ahmiidmoali/Ecommerce-App-).
 
 <table>
   <tr>
@@ -24,7 +17,6 @@ orders
     </td>
      <td>
 <h4><a href="https://github.com/ahmiidmoali/ecommerce_app">Ecommerce App</a></h4>
-	    
 - Clean Architecture, Bloc , php rest Api, Get it .....
 - Features: Email authentication , product CRUD operations, and essential user actions like cart management, checkout, and selling.
 Integrated a responsive app notification system for enhanced user communication.
@@ -34,13 +26,15 @@ Integrated a responsive app notification system for enhanced user communication.
     <tr>
     <td>
 <h4><a href="https://github.com/ahmiidmoali/instagram_clone">Instagram Clone App</a></h4>
-	    
--charts for the amount of orders on the past 7 days
+- Bloc, php rest Api , Clean Architecture. 
+- Features: Authentication, Personalized Profile page, Interactive posting , Following and Followers , Explore &Home Page
     </td>
      <td>
 <h4><a href="https://github.com/ahmiidmoali/Ecommerce-App-">Ecommerce App</a></h4>
-	    
--charts for the amount of orders on the past 7 days
+- GetX , php rest Api , MVC architecture.
+- Independently developed both the frontend user interface and backend API,encompassing user authentication, product
+CRUD operations, and essential user actions like cart management, checkout, and selling. Integrated a responsive app notification
+system for enhanced user communication
     </td>
   </tr>
   </table>
