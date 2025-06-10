@@ -18,23 +18,27 @@ contribute to innovative projects and collaborate with talented teams.
     <td>
 <h4><a href="https://github.com/ahmiidmoali/web_dashboard">Web Dashboard App</a></h4>
 	    
--charts for the amount of orders on the past 7 days
+- Clean Architecture, responsive design, Bloc , php rest Api, Get it .....
+- Features: displaying charts about users & orders activties ,products and cateogories CRUD operations - approving and preparing
+orders
     </td>
      <td>
 <h4><a href="https://github.com/ahmiidmoali/ecommerce_app">Ecommerce App</a></h4>
 	    
--charts for the amount of orders on the past 7 days
+- Clean Architecture, Bloc , php rest Api, Get it .....
+- Features: Email authentication , product CRUD operations, and essential user actions like cart management, checkout, and selling.
+Integrated a responsive app notification system for enhanced user communication.
     </td>
   </tr>
 
     <tr>
     <td>
-<h4><a href="https://github.com/ahmiidmoali/web_dashboard">Web Dashboard App</a></h4>
+<h4><a href="https://github.com/ahmiidmoali/instagram_clone">Instagram Clone App</a></h4>
 	    
 -charts for the amount of orders on the past 7 days
     </td>
      <td>
-<h4><a href="https://github.com/ahmiidmoali/ecommerce_app">Ecommerce App</a></h4>
+<h4><a href="https://github.com/ahmiidmoali/Ecommerce-App-">Ecommerce App</a></h4>
 	    
 -charts for the amount of orders on the past 7 days
     </td>
