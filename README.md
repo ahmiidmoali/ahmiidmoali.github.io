@@ -1,5 +1,6 @@
-# Frontend Flutter developer  [   MyLinkedin](https://www.linkedin.com/in/ahmed-mohamed-ali-6aa3492b5/)
-
+# Frontend Flutter Developer
+## Download my CV for contact info [..here](https://drive.google.com/file/d/1mBkWsyDFXD4Knd-rnPa__1kVsyaGN5IY/view?usp=drive_link)
+## My Linkedin profile [[..here](https://www.linkedin.com/in/ahmed-mohamed-ali-6aa3492b5/)
 ## About me:
 - A flutter frontend developer with a strong foundation in clean architecture principles. Passionate about crafting highperformance, user-friendly applications. Experienced in Architecture TDD and BLOC state management. Seeking opportunities to
 contribute to innovative projects and collaborate with talented teams. 
@@ -68,6 +69,29 @@ system for enhanced user communication
     </td>
       </tr>
   </table>
-
-
-
+## Screenshots
+### Meeting App  [  ...More >>](https://github.com/ahmiidmoali/enhanced_meeting_app/blob/main/README.md)
+<table>
+  <tr>
+    <td><img src="assets/image/home1.png" width=270 height=480></td>
+     <td><img src="assets/image/item1.png" width=270 height=480></td>
+     <td><img src="assets/image/orderdetails1.png" width=270 height=480></td>
+  </tr>
+   </table>
+### Web Dashboard  [  ...More >>](https://github.com/ahmiidmoali/web_dashboard/blob/main/README.md)
+<table>
+  <tr>
+    <td><img src="assets/image/dashboard-1.png" width=600 height=300></td>
+     <td><img src="assets/image/orders -1.png" width=600 height=300></td>
+    
+  </tr>
+  </table>
+  
+### ecommerce App  [  ...More >>](https://github.com/ahmiidmoali/ecommerce_app/blob/main/README.md)
+<table>
+  <tr>
+    <td><img src="assets/image/home1.png" width=270 height=480></td>
+     <td><img src="assets/image/item1.png" width=270 height=480></td>
+     <td><img src="assets/image/orderdetails1.png" width=270 height=480></td>
+  </tr>
+   </table>
